@@ -1,0 +1,185 @@
+{
+  "class": [
+    {
+      "id": 1,
+      "class": "maths"
+    },
+    {
+      "id": 2,
+      "class": "physics"
+    },
+    {
+      "id": 3,
+      "class": "chemistry"
+    },
+    {
+      "id": 4,
+      "class": "computer"
+    }
+  ],
+  "student": [
+    {
+      "id": 1,
+      "fullname": "anna",
+      "lastname": "bell",
+      "email": "anna@gmail.com",
+      "address": "Ochsenweg 54, Melle, 49324",
+      "phone": "+49 30 901820",
+      "classId": 1,
+      "gender": "female",
+      "dob": "11/2/2001"
+    },
+    {
+      "fullname": "Hanna",
+      "lastname": "bell",
+      "email": "hanna@gmail.com",
+      "address": "Ochsenweg 54, Melle, 49324",
+      "phone": "+49 30 901820",
+      "classId": 1,
+      "gender": "female",
+      "dob": "12/2/2004",
+      "id": 2
+    },
+    {
+      "fullname": "Lena",
+      "lastname": "bell",
+      "email": "lena@gmail.com",
+      "address": "Ochsenweg 54, Melle, 49324",
+      "phone": "+49 30 901820",
+      "classId": 1,
+      "gender": "female",
+      "dob": "12/6/2006",
+      "id": 3
+    },
+    {
+      "fullname": "Emma",
+      "lastname": "bell",
+      "email": "emma@gmail.com",
+      "address": "Ochsenweg 54, Melle, 49324",
+      "phone": "+49 30 901820",
+      "classId": 1,
+      "gender": "female",
+      "dob": "12/6/2008",
+      "id": 4
+    },
+    {
+      "fullname": "Emma",
+      "lastname": "bell",
+      "email": "emma@gmail.com",
+      "address": "Ochsenweg 54, Melle, 49324",
+      "phone": "+49 30 901820",
+      "classId": 2,
+      "gender": "female",
+      "dob": "12/6/2008",
+      "id": 5
+    },
+    {
+      "fullname": "Emma",
+      "lastname": "bell",
+      "email": "emma@gmail.com",
+      "address": "Ochsenweg 54, Melle, 49324",
+      "phone": "+49 30 901820",
+      "classId": 4,
+      "gender": "female",
+      "dob": "12/6/2008",
+      "id": 6
+    },
+    {
+      "fullname": "Lena",
+      "lastname": "bell",
+      "email": "lena@gmail.com",
+      "address": "Ochsenweg 54, Melle, 49324",
+      "phone": "+49 30 901820",
+      "classId": 3,
+      "gender": "female",
+      "dob": "12/6/2006",
+      "id": 7
+    },
+    {
+      "fullname": "Lena",
+      "lastname": "bell",
+      "email": "lena@gmail.com",
+      "address": "Ochsenweg 54, Melle, 49324",
+      "phone": "+49 30 901820",
+      "classId": 4,
+      "gender": "female",
+      "dob": "12/6/2006",
+      "id": 8
+    },
+    {
+      "fullname": "Hanna",
+      "lastname": "bell",
+      "email": "hanna@gmail.com",
+      "address": "Ochsenweg 54, Melle, 49324",
+      "phone": "+49 30 901820",
+      "classId": 2,
+      "gender": "female",
+      "dob": "12/2/2004",
+      "id": 9
+    },
+    {
+      "fullname": "Hanna",
+      "lastname": "bell",
+      "email": "hanna@gmail.com",
+      "address": "Ochsenweg 54, Melle, 49324",
+      "phone": "+49 30 901820",
+      "classId": 3,
+      "gender": "female",
+      "dob": "12/2/2004",
+      "id": 10
+    },
+    {
+      "fullname": "Hanna",
+      "lastname": "bell",
+      "email": "hanna@gmail.com",
+      "address": "Ochsenweg 54, Melle, 49324",
+      "phone": "+49 30 901820",
+      "classId": 4,
+      "gender": "female",
+      "dob": "12/2/2004",
+      "id": 11
+    }
+  ],
+  "teacher": [
+    {
+      "id": 1,
+      "fullname": "alias",
+      "lastname": "bell",
+      "email": "alias@gmail.com",
+      "address": "Schulstrasse 4",
+      "phone": "+49 30 901820",
+      "classId": 1,
+      "gender": "female"
+    },
+    {
+      "fullname": "sophia",
+      "lastname": "bell",
+      "email": "sophia@gmail.com",
+      "address": "Schulstrasse 4",
+      "phone": "+49 30 901820",
+      "classId": 2,
+      "gender": "female",
+      "id": 2
+    },
+    {
+      "fullname": "michael",
+      "lastname": "bell",
+      "email": "michael@gmail.com",
+      "address": "Schulstrasse 4",
+      "phone": "+49 30 901820",
+      "classId": 3,
+      "gender": "male",
+      "id": 3
+    },
+    {
+      "fullname": "tobias",
+      "lastname": "bell",
+      "email": "tobias@gmail.com",
+      "address": "Lehmbergerstr. 2, Damp, 24351",
+      "phone": "+49 30 901820",
+      "classId": 4,
+      "gender": "male",
+      "id": 4
+    }
+  ]
+}
